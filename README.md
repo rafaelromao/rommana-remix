@@ -9,9 +9,9 @@ This remix introduces the following changes, on top of the [original Rommana](ht
 - Increase the height of the base of the body in 5mm, to accommodate a 500mAh battery.
 - Adjust screw holes.
 - Add a detachable components socket that holds:
-    - MCU: nice-nano v2 or Supermini NRF52840
-    - On/off switch or an USC-C breakout board
-    - Reset button
+    - MCU: nice-nano v2 or Supermini NRF52840. 
+    - On/off switch or an USB-C breakout board.
+    - Reset button.
 
 ![img](img/01.jpeg)
 
