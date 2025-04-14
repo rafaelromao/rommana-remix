@@ -20,3 +20,6 @@ These changes were made preserving as much as possible the original design.
 More build pictures can be found [here](img/build.md).
 
 A ZMK firmware implementation can be found in my [keyboards](https://github.com/rafaelromao/keyboards) repo.
+
+## Credits
+- [AlaaSaadAbdo a.k.a. Mabroum](https://github.com/AlaaSaadAbdo), for the original Rommana design.
